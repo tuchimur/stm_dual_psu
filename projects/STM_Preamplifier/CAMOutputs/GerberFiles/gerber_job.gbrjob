@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-08T22:10:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "tunnelAmp"
+        },
+        "Owner": "Thoma Uchimura <tuchimur@calpoly.edu>",
+        "Size": {
+            "X": 20.625,
+            "Y": 15.23
+        }
+    }
+}

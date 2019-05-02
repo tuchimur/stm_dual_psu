@@ -1,0 +1,10 @@
+"Part";"Value";"Device";"Package";"Description";"SPICEMODEL";"SPICEPREFIX";
+"C1";"4.7uF";"CPOL-USC/6032-28W";"C/6032-28W";"POLARIZED CAPACITOR, American symbol";"";"";
+"C2";"4.7uF";"CPOL-USC/6032-28W";"C/6032-28W";"POLARIZED CAPACITOR, American symbol";"";"";
+"C3";"0.1uF";"C-USC0603";"C0603";"CAPACITOR, American symbol";"";"";
+"C4";"0.1uF";"C-USC0603";"C0603";"CAPACITOR, American symbol";"";"";
+"IC1";"OPA124U";"OPA124U";"SO08";"Difet Operational Amplifier";"";"";
+"INPUT";"";"2,54/1,1";"2,54/1,1";"THROUGH-HOLE PAD";"";"";
+"JP1";"";"PINHD-1X5";"1X05";"PIN HEADER";"";"";
+"R1";"220";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";
+"R2";"100M";"RR1206";"R1206";"RESISTOR, European symbol";"NONE";"R";
